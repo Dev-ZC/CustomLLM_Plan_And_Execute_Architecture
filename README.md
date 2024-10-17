@@ -38,9 +38,9 @@ Plan(steps=[Step(function_name='createEvent', context='Event name: meeting, star
 
 Processing Step: createEvent()
 
-Event Name: Meeting
-Start Time: 10am
-End Time: 11am
+Event Name: Meeting, 
+Start Time: 10am, 
+End Time: 11am, 
 Date: 2024-10-20
 
 # Installation
